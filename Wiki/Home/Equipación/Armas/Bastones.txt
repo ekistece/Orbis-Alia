@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:47:53+02:00
+
+====== Bastones ======
+Created viernes 28 octubre 2016
+
+== Varitas ==
+* **Varita de Cristal**
+* **Varita Celeste**
+* **Varita de Mago**
+
+== Bastones ==
+* **Bastón de Roble**
+* **Bastón de Marfil**
+* **Bastón Luminiscente**
+
+== Varas ==
+* **Vara de Aprendiz**
+* **Vara de las Tinieblas**
+* **Vara del Omnisciente**
+* **Vara de Escolapio**
+
+== Báculos ==
+* **Báculo de Ninfa**
+* **Báculo del Trueno**
+
+== Cayados ==
+* **Cayado Metálico**
+* **Cayado Adornado**
+* **Cayado del Sabio**
+
+== Cetros ==
+* **Cetro Enigmático**
+* **Cetro Estrellado**
+* **Cetro Adornado**
+* **Cetro de los Dioses**
+
+== Bordones ==
+* **Bordón Espiral**
+* **Bordón de Ascuas**
+
+== Bastones legendarios ==
+* **Crux Ansata** (__Surpass__)
+* **Yggdrasill**/**Gridharvolur **(__Ultimate__)
+
+== Otros ==
+* **Escoba **(//Juguete//)
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:47:23+02:00
+
+====== Espadas ======
+Created viernes 28 octubre 2016
+
+== Dagas ==
+* **Kris**
+* **Estilete**
+* **Akinakes**
+* **Damasquina**
+* **Colmillo de Tigre**
+
+== Sables ==
+* **Cimitarra**
+* **Alfanje**
+* **Talwaar Dorado**
+* **Chafarote de Vajra**
+* **Sable Vampírico**
+
+== Espadas ==
+* **Espada Herrumbrosa**
+* **Espada Partida***
+* **Bracamarte**
+* **Ulfberht**
+* **Espada Mágica**
+* **Estoque Sagrado**
+* **Espada Rúnica**
+* **Gladio Caótico**
+* **Flamberge**
+
+== Espadas a dos manos ==
+* **Montante**
+* **Zweihänder**
+* **Hoja heróica**
+* ***Sajaogros**
+* **Destructora**
+* **Engullealmas**
+
+== Espadas legendarias ==
+* **Burtgang **(__Surpass__)
+* **Egeking**/**Szczerbiec** (__Ultimate__)
+
+== Otros ==
+* **Bate **(//Juguete//)
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

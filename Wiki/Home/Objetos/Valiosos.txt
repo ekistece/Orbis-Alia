@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:45:09+02:00
+
+====== Valiosos ======
+Created viernes 28 octubre 2016
+
+== Objetos ==
+* **Orquídea Azul** (10) → Extraña flor, alguien podría quererla
+* **Necronomicón** → Contiene escritos indescifrables. No se sabe cuál puede, o pudo, ser su uso
+* **Silimä** (7) →Sustancia para forjar armas
+* **Nindra** (5) → Sustancia para reparar armas
+* **Eorclastán** (3) →Sustancia para fabricar armaduras
+* **Joya Atemporal** (3) → Joya para fabricar armaduras
+* **Hierro Malévolo** (3) → Metal para fabricar armaduras
+* **Acero Abisal** (3) → Mineral para fabricar armaduras
+* **Orbe Escarchado** (2) → Orbe para fabricar armaduras
+* **Telas del Peregrino** (3) → Tela para fabricar armaduras
+* **Cuero de la Vigilia** (2) → Cuero para fabricar armaduras
+
+== Para vender ==
+* **Esmeralda** (∞) → 7000§
+* **Zafiro** (∞) → 16.000§
+* **Rubí** (∞) → 100.000§
+* **Diamante** (∞) → 750.000§
+* **Ónice** (∞) → 5.000.000§
+
+=== Coleccionables ===
+
+== Reliquias artúricas ==
+* **Seure** → Dáselo al conservador del museo
+* **Clarent** → Dáselo al conservador del museo
+* **Caledvwlch** → Dáselo al conservador del museo
+* **Excálibur** → Dáselo al conservador del museo
+* **Caliburn** → Dáselo al conservador del museo
+* **Carnwennan** → Dáselo al conservador del museo
+* **Rhongomyniad** → Dáselo al conservador del museo
+* **Santo** grial → Dáselo al conservador del museo
+
+== Katanas ==
+* **Kusanagi** → Dáselo al conservador del museo
+* **Kikuichimonji** → Dáselo al conservador del museo
+* **Iaito** → Dáselo al conservador del museo
+* **Muramasa** → Dáselo al conservador del museo
+* **Masamune** → Dáselo al conservador del museo
+* **Makoto** → Dáselo al conservador del museo
+* **Onikiri y Ubadachi** → Dáselo al conservador del museo
+* **Murakumo** → Dáselo al conservador del museo
+* **Jisatsu** → Dáselo al conservador del museo
+* **Nodachi** → al conservador del museo
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

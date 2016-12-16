@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-11T10:06:21+01:00
+
+====== Astral ======
+Created viernes 11 noviembre 2016
+
+=== Poderes especiales de cada uno de los protagonistas del juego ===
+
+== Ataque ==
+* **Caballeros de la Mesa Redonda** → Alistair
+* **Juicio Final** → Bianca
+* **El Megiddo** → Caoimhín
+* **Huevo del Cosmos** → Lance
+* **Atlántida Resurgida** → Martel
+* **Ira de los Cielos** → Naara
+* **Mauna Kea** → Suwruz
+
+== Soporte ==
+* — → Alistair
+* — → Bianca
+* — → Caoimhín
+* — → Lance
+* **Lluvia Restauradora** → Martel
+* — → Naara
+* — → Suwruz
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//
+

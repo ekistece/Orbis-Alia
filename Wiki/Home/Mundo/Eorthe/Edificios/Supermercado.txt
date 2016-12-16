@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-04T11:45:46+01:00
+
+====== Supermercado ======
+Created viernes 04 noviembre 2016
+
+[Dibujo]
+Aquí tienen de todo, excepto armas y armaduras
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

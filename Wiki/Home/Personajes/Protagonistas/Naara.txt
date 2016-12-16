@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T12:27:27+02:00
+
+====== Naara ======
+Created viernes 28 octubre 2016
+
+[Retrato de Naara]
+
+* **Nombre**: Naara Blackwood
+* **Sexo**: Femenino
+* **Raza**: Wengrà
+* **Fecha de nacimiento**: 17/01/2988
+* **Lugar de nacimiento**: Muspelheim
+* **Fecha de fallecimiento**: n/a
+* **Edad**: 33
+* **Estatura**: 233cm
+* **Color de pelo**: Castaño
+* **Color de ojos**: Marrón
+* **Profesión**: Carpintera
+* **Arma de elección**: Hacha
+* **Elemento**: Viento/Trueno
+* **Astral**: Ira de los Cielos
+* **Arma inicial**: Hacha de Juguete
+* **Salud inicial**: 85
+* **Maná inicial**: 13
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-04T11:32:55+01:00
+
+====== Contenedores y otros ======
+Created viernes 04 noviembre 2016
+
+//Sujeto a cambios//
+
+* **Caja** → Puede contener objetos
+* **Barril** → Puede contener comida
+* **Esfera** → Puede contener objetos valiosos
+* **Cofre** → Puede contener armas o armaduras
+* **Caja** **trampa** → Contiene monstruos o trampas
+* **Montón** **de** **monedas** → Unas monedas
+* **Agujero en la pared** → Quizás haya algo
+* **Bulbo de silimä** → Necesitarás un pico
+* **Menas de mineral** → Necesitarás un pico
+* **Flores** → Bonitas flores, huelen bien
+* **Plantas** → Plantas, quizás sean útiles
+* **Estantes** → Libros y eso, ¡qué entretenido!
+* **Armarios** → Puede haber objetos útiles
+* **Cristal** **de** **guardado** → Te permite guardar la partida en una mazmorra
+* **Fuente** **de** **vida** → Te permite curarte, gratis, en una mazmorra
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

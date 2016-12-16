@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T09:03:49+02:00
+
+====== Estados alterados ======
+Created viernes 28 octubre 2016
+
+* [[+Envenenado|Envenenado]]
+* [[+Quemado|Quemado]]
+* [[+Adormilado|Adormilado]]
+* [[+Cansado|Cansado]]
+* [[+Frenético|Frenético]]
+* [[+Ojos llorosos|Ojos llorosos]]
+* [[+Paralizado|Paralizado]]
+* [[+Sensación extraña|Sensación extraña]]
+* [[+Desconcentrado|Desconcentrado]]
+* [[+Caído|Caído]]
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

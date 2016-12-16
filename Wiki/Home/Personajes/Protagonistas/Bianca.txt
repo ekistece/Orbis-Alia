@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T12:26:47+02:00
+
+====== Bianca ======
+Created viernes 28 octubre 2016
+
+[Retrato de Bianca]
+
+* **Nombre**: Bianca Astori
+* **Sexo**: Femenino
+* **Raza**: Terren
+* **Fecha de nacimiento**: 27/10/3003
+* **Lugar de nacimiento**: Ys
+* **Fecha de fallecimiento**: n/a
+* **Edad**: 18
+* **Estatura**: 167cm
+* **Color de pelo**: Pelirrojo
+* **Color de ojos**: Violeta
+* **Profesión**: Tendera
+* **Arma de elección**: Látigo
+* **Elemento**: Oscuridad
+* **Astral**: Juicio Final
+* **Arma inicial**: Comba
+* **Salud inicial**: 75
+* **Maná inicial**: 25
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-04T11:43:01+01:00
+
+====== Forja de armas ======
+Created viernes 04 noviembre 2016
+
+[Dibujo]
+Compra aquí tus armas, qué peligroso
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

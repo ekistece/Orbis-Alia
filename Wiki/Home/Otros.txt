@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T09:03:34+02:00
+
+====== Otros ======
+Created viernes 28 octubre 2016
+
+* [[+Elementos|Elementos]]
+* [[+Estados alterados|Estados alterados]]
+* [[+Dinero|Dinero]]
+* [[+Vehículos|Vehículos]]
+* [[+Estadísticas|Estadísticas]]
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:42:47+02:00
+
+====== Protagonistas ======
+Created viernes 28 octubre 2016
+
+[Dibujo de los protagonistas juntos]
+
+== Los héroes de esta historia ==
+* [[+Alistair|Alistair]]
+* [[+Bianca|Bianca]]
+* [[+Lance|Lance]]
+* [[+Caoimhín|Caoimhín]]
+* [[+Martel|Martel]]
+* [[+Suwruz|Suwruz]]
+* [[+Naara|Naara]]
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

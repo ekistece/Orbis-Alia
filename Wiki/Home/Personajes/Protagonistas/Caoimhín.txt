@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T12:26:56+02:00
+
+====== Caoimhín ======
+Created viernes 28 octubre 2016
+
+[Retrato de Caoimhín]
+
+* **Nombre**: Caoimhín Uhr
+* **Sexo**: Masculino
+* **Raza**: Szanir
+* **Fecha de nacimiento**: 09/06/1584
+* **Lugar de nacimiento**: Arenas de Goodwin
+* **Fecha de fallecimiento**: n/a
+* **Edad**: 1437
+* **Estatura**: 192cm
+* **Color de pelo**: Gris
+* **Color de ojos**: Verde
+* **Profesión**: Curandero
+* **Arma de elección**: Bastón
+* **Elemento**: Tierra
+* **Astral**: El Megiddo
+* **Arma inicial**: Escoba
+* **Salud inicial**: 60
+* **Maná inicial**: 35
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

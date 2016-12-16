@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:48:32+02:00
+
+====== Garras ======
+Created viernes 28 octubre 2016
+
+== Garras ==
+* **Garras Afiladas**
+* **Garras de Acero**
+* **Garras de Plata**
+* **Garras de Dragón**
+
+== Garfas ==
+* **Garfas Sangrientas**
+* **Garfas de Adamantio**
+* **Garfas Rúnicas**
+
+== Guantes de combate ==
+* **Guantes con Cuchillas**
+* **Guantes de Oso**
+* **Puños Galvanizados**
+
+== Garras legendarias ==
+* **Kindad** (__Surpass__)
+* **Baldur**/**Járngreipr** (__Ultimate__)
+
+== Otros ==
+* **Garras de Plástico** (//Juguete//)
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

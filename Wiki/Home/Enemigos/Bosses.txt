@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:51:23+02:00
+
+====== Bosses ======
+Created viernes 28 octubre 2016
+
+=== Jefes que son parte del desarrollo de la historia ===
+
+== Jefes ==
+* **Henex, el Vigilante**
+* **Rey Theufulk IX**
+* **Jarl Valeska**
+* **Emperador Dhaerik II**
+* **Faraón Seezoram**
+* **Experimento·HA**
+* **Profeta Ciego**
+* **Suzaku, el Fuego**
+* **Genbu, la Tierra**
+* **Seiryuu, el Mar**
+* **Byakko, el Viento**
+* **Pokvar, el Dios Pútrido**
+* **#3169~@**
+* **Efigie Demoníaca**
+* **Euríale, Medusa y Esteno**
+* **Gargantúa**
+* **E. Báthory**
+* **Grubbler**
+
+== The Eye Above ==
+* **D'Endrrah**
+* **Hægg-Nehaq**
+* **Phanýugu**
+* **Uæniststa**
+* **Zarnalarac**
+* **Eshmiralor**
+* **Amh'Dosel**
+* **Lamith**
+* **Gaahl**
+* **Orobylor**
+* **Belemos**
+* **Meph'Ushai**
+* **El Encapuchado**
+* **Adalid Gochdann**
+* **Sr. Fauces**
+* **Trillizas eléctricas**
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

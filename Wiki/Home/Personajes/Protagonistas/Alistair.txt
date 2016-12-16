@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T12:26:40+02:00
+
+====== Alistair ======
+Created viernes 28 octubre 2016
+
+[Retrato de Alistair]
+
+* **Nombre**: Alistair Rhodes
+* **Sexo**: Masculino
+* **Raza**: Terren
+* **Fecha de nacimiento**: 25/09/2999
+* **Lugar de nacimiento**: Lefein
+* **Fecha de fallecimiento**: n/a
+* **Edad**: 22
+* **Estatura**: 184cm
+* **Color de pelo**: Negro
+* **Color de ojos**: Miel
+* **Profesión**: Estudiante de kendo
+* **Arma de elección**: Espada
+* **Elemento**: Luz
+* **Astral**: Caballeros de la Mesa Redonda
+* **Arma inicial**: Bate
+* **Salud inicial**: 100
+* **Maná inicial**: 10
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

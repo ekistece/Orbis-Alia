@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-04T11:55:29+01:00
+
+====== Hospital ======
+Created viernes 04 noviembre 2016
+
+[Dibujo]
+Aquí os curan a ti y tus compañeros
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

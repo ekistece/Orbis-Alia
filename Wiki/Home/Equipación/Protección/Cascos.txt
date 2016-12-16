@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:49:27+02:00
+
+====== Cascos ======
+Created viernes 28 octubre 2016
+
+== Cascos ligeros ==
+* **Pañuelo de Seda**
+* **Gorro de Arpillera**
+* **Orejeras de Lana**
+* **Gorro de Cuero**
+* **Capucha de Piel**
+* **Sombrero de Paja**
+* **Birrete de Sabio**
+* **Boina Mágica**
+* **Capirote de Seda Mágica**
+* **Capucha de Piel Demoníaca**
+* **Sombrero del Gran Mago**
+
+== Cascos pesados ==
+* **Casco de Acero**
+* **Yelmo de Latón**
+* **Cimera Cornuda**
+* **Gran Barbuta**
+* **Cráneo de Gigante**
+* **Borgoñota Cromada**
+* **Casco de Jefe Vikingo**
+* **Bacinete Dorado**
+* **Almófar de Gran Calidad**
+* **Yelmo de las Estrellas**
+* **Celada de Oricalco**
+* **Morrión Alado**
+
+== Cascos excelsos ==
+* **Gálea Eorcla -> **Alistair
+* **Cimera Atemporal -> **Bianca
+* **Morrión Malévolo -> **Suwruz
+* **Yelmo Abisal -> **Naara
+* **Celada Escarchada -> **Lance
+* **Birrete del Peregrino -> **Caoimhín
+* **Capucha de la Vigilia -> **Martel
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-04T10:55:52+01:00
+
+====== Poderes ======
+Created viernes 04 noviembre 2016
+
+* [[+Poderes de Agua-Hielo|Poderes de Agua/Hielo]]
+* [[+Poderes de Viento-Trueno|Poderes de Viento/Trueno]]
+* [[+Poderes de Fuego|Poderes de Fuego]]
+* [[+Poderes de Tierra|Poderes de Tierra]]
+* [[+Poderes de Luz|Poderes de Luz]]
+* [[+Poderes de Oscuridad|Poderes de Oscuridad]]
+* [[+Poderes X|Poderes X]]
+* [[+Astral|Astral]]
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:43:53+02:00
+
+====== Sanación ======
+Created viernes 28 octubre 2016
+
+//Efectos sujetos a cambio//
+
+== Curación de Puntos de Salud (PS) ==
+* **Gragea de Manzana** → 70
+* **Gragea de Limón** → 150
+* **Gragea de Fresa** → 400
+* **Gragea Plateada** → 700
+* **Gragea Dorada** → 1500
+* **Gragea Multicolor** → 4000
+
+== Curación de Puntos de Maná (PM) ==
+* **Té Verde** → 25
+* **Té Negro** → 60
+* **Té Oolong** → 130
+* **Té de Hierbas** → 250
+* **Té Rooibos** → 600
+* **Té Floreciente** → 900
+
+== Resucitadores ==
+* **Galleta de Chocolate** → 25% de los PS
+* **Tarta de Arándanos** → 100% de los PS
+
+== Otros ==
+* **Manzana de Rubí** → Restaura todos los PS a una persona
+* **Manzana del Edén** → Restaura todos los PS a todo el grupo
+* **Tienda de Campaña** → Restaura PS y PM al 100% y cura todos los estados alterados (Sólo en el mapa del mundo)
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

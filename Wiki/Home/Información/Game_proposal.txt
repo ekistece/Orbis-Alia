@@ -1,0 +1,58 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-05T08:59:07+01:00
+
+====== Game proposal ======
+Created sábado 05 noviembre 2016
+
+== – Título del juego: ==
+Orbis Alia
+
+== – Género: ==
+Rol Aventura
+
+== – Subgéneros: ==
+Fantasía, ciencia ficción, misterio
+
+== – Ambientación: ==
+Presente mezclado con aspectos medievales y con toques de ciencia ficción.
+(Estilo Tales of Symphonia)
+
+== – Cámara: ==
+Tercera persona con vista ortogonal
+
+== – Gráficos: ==
+2.5D
+
+== – Plataformas objetivo: ==
+* PC
+
+== – Edad objetiva de los jugadores: ==
+12 años~
+
+== – Rating (PEGI/ESRB): ==
+PEGI 12/ESRB Teen.
+
+== – Modos de juego: ==
+* **Modo cuento**: Los enemigos dan más experiencia, son más débiles y sueltan más objetos.
+* **Modo aventura**: Los enemigos son normales.
+* **Modo infierno**: Los enemigos dan menos experiencia, son más poderosos y sueltan menos objetos.
+* **Modo "boss-rush"**: Combatirás contra los bosses que hayas vencido hasta el momento en la historia, uno tras otro,
+con la posibilidad de curarte y reabastecerte entre combate y combate. (El nivel se ajustará al boss contra el que estés combatiendo)
+
+== – Unique Selling Points: ==
+* X
+* X
+* X
+* X
+* X
+
+== – Productos similares (Comps): ==
+* [[https://en.wikipedia.org/wiki/Ni_no_Kuni:_Wrath_of_the_White_Witch|Dragon Quest VI: Realms of Revelation]] ([[https://www.youtube.com/watch?v=67D7dO43kKU|Video]])
+* [[https://en.wikipedia.org/wiki/Phantasy_Star_IV:_The_End_of_the_Millennium|Phantasy Star: The End of the Millennium]] ([[https://www.youtube.com/watch?v=BPMxoOdO_Io|Video]])
+* [[https://en.wikipedia.org/wiki/EarthBound|MOTHER 2 - Giygas Strikes Back (EarthBound)]] ([[https://www.youtube.com/watch?v=9EGWUQjrZYM|Video]])
+* [[https://en.wikipedia.org/wiki/Chrono_Trigger|Chrono Trigger]] ([[https://www.youtube.com/watch?v=fEcwtSkRz2Q|Video]])
+* [[http://aselia.wikia.com/wiki/Main_Page|Tales of... Saga]] ([[https://www.youtube.com/watch?v=DRKXjofDliM|Video]])
+* [[https://en.wikipedia.org/wiki/Ni_no_Kuni:_Wrath_of_the_White_Witch|Ni no Kuni: Wrath of the White Witch]] ([[https://www.youtube.com/watch?v=S-Jp6tw-SRM|Video]])
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

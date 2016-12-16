@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-04T10:45:58+01:00
+
+====== Fórmulas ======
+Created viernes 04 noviembre 2016
+
+**Daño**
+
+**Daño mágico**
+
+**Defensa**
+
+**Defensa mágica**
+
+**Daño elemental**
+
+**Defensa elemental**
+
+**Experiencia**
+Nivel n = n * n * (n+2) * constante (Redondeado a la baja)
+{{../../../Experiencia.PNG?width=190}}
+
+**Estadísticas**
+Ganancia de estadísticas = (constante + (número aleatorio 0-5))/2 (Redondeado a la baja)
+
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

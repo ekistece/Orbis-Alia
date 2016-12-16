@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:44:04+02:00
+
+====== Cura de estados alterados ======
+Created viernes 28 octubre 2016
+
+== Objetos ==
+* **Antídoto** → Neutraliza el veneno
+* **Aloevera** → Cura las quemaduras
+* **Colirio** → Limpia los ojos
+* **Campana** → Quita las sensaciones extrañas
+* **Despertador** → Despierta a los dormidos
+* **Raíz de Marn** → Anula la parálisis
+* **Incienso** → Ayuda a concentrarse
+* **Calmantes** → Calma el frenesí
+* **Bebida Energética** →Te devuelve la vitalidad
+* **Bezoar** → Cura todos los estados alterados
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

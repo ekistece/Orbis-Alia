@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-29T12:57:52+02:00
+
+====== The Eye Above ======
+Created sábado 29 octubre 2016
+
+[Símbolo de la secta]
+
+"Tu dolor es nuestra dicha."
+- Lema de la secta.
+
+* [[+Miembros|Miembros]]
+* [[+Los 7 demonios|Los 7 demonios]]
+* [[+Los 4 (6) cids|Los 4 (6) cids]]
+* [[+Alto mando|Alto mando]]
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

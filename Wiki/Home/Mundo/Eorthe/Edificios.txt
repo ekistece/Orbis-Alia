@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-04T11:32:06+01:00
+
+====== Edificios ======
+Created viernes 04 noviembre 2016
+
+* [[+Motel|Motel]]
+* [[+Taberna|Taberna]] ^
+* [[+Forja de armas|Forja de armas]]
+* [[+Forja de armaduras|Forja de armaduras]]
+* [[+Tienda|Tienda]]
+* [[+Farmacia|Farmacia]]
+* [[+Supermercado|Supermercado]] ^
+* [[+Burdel|Burdel]] ^
+* [[+Museo|Museo]] ^
+* [[+Parroquia|Parroquia]]
+* [[+Hospital|Hospital]]
+* [[+Casa-Mansión|Casa/Mansión]]
+* [[+Casa de empeños|Casa de empeños]]
+* [[+Librería|Librería]] ^
+
+^ No está en todas las ciudades
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

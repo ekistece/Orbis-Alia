@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:51:39+02:00
+
+====== Coliseo ======
+Created viernes 28 octubre 2016
+
+=== Geni a los que te puedes enfrentar si participas en los combates en el coliseo. ===
+* **Jabalí**
+* **León**
+* **Contendiente**
+* **Gladiador**
+* **Bárbaro**
+* **Furia**
+* **Demonio Esclavizado**
+* **Sujeto 25**
+* **Sujeto 16**
+* **Orithia**
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

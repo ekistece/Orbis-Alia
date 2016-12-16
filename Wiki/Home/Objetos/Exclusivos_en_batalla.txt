@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:44:51+02:00
+
+====== Exclusivos en batalla ======
+Created viernes 28 octubre 2016
+
+== Objetos ==
+* **Símbolo del Sur** → Ataque del elemento **Fuego** a un enemigo
+* **Símbolo del Este** → Ataque del elemento **Agua/Hielo** a un enemigo
+* **Símbolo del Oeste** → Ataque del elemento **Viento/Trueno **a un enemigo
+* **Símbolo del Norte** → Ataque del elemento **Tierra **a un enemigo
+* → Ataque del elemento **Luz** a un enemigo
+* → Ataque del elemento **Oscuridad** a un enemigo
+* **Pluma de Suzaku** → Ataque fuerte del elemento **Fuego** a un enemigo
+* **Escama de Seiryuu** → Ataque fuerte del elemento **Agua/Hielo** a un enemigo
+* **Colmillo de Byakko** → Ataque fuerte del elemento **Viento/Trueno** a un enemigo
+* **Placa de Genbu** → Ataque fuerte del elemento **Tierra** a un enemigo
+* → Ataque fuerte del elemento **Luz** a un enemigo
+* → Ataque fuerte del elemento **Oscuridad** a un enemigo
+* **Bigote Dorado** → Ataque muy poderoso de **todos los elementos juntos** a un enemigo
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

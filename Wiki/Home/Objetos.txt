@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:41:53+02:00
+
+====== Objetos ======
+Created viernes 28 octubre 2016
+
+=== Los diversos objetos que se pueden encontrar en, este, nuestro mundo. ===
+* [[+Sanación|Sanación]]
+* [[+Cura de estados alterados|Cura de estados alterados]]
+* [[+Aumento de estadísticas|Aumento de estadísticas]]
+* [[+Exclusivos en batalla|Exclusivos de batalla]]
+* [[+Productos de geni|Productos de geni]]
+* [[+Valiosos|Valiosos]]
+* [[+Objetos clave|Objetos clave]]
+* [[+Contenedores y otros|Contenedores y otros]]
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

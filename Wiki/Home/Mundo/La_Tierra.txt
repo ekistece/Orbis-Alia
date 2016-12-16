@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:54:02+02:00
+
+====== La Tierra ======
+Created viernes 28 octubre 2016
+
+[Imagen de la tierra]
+[Mapa de la Tierra]
+
+== Lugares aún habitados en la tierra: ==
+* [[+Nova Barcelona|Nova Barcelona]]
+* [[+Parisíi|Parisíi]]
+* [[+Dahomey|Dahomey]]
+* [[+Neo York|Neo York]]
+* [[+Nuova Roma|Nuova Roma]]
+* [[+Kyu Tokyo|Kyu Tokyo]]
+* [[+Nuevos Aires|Nuevos Aires]]
+* [[+Sydney-X2|Sydney-X2]]
+* [[+Lao Beijing|Lao Beijing]]
+* [[+Novaya Moskvá|Novaya Moskvá]]
+* [[+Ny Göteborg|Ny Göteborg]]
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-12-12T08:29:24+01:00
+
+====== Game flow ======
+Created lunes 12 diciembre 2016
+
+**Orbis Alia** es un **juego de rol aventura** en **vista ortogonal** en el que el jugador encarnará a **Alistair Rhodes**,
+un joven y valiente estudiante de kendo, que se ve envuelto en una aventura de épicas proporciones,
+en busca del ser al que llaman "el devorador de mundos", que destruyó la tierra hace siglos, y derrotarle.
+Alistair y sus compañeros deberán explorar por todo el mundo** mazmorras repletas de puzzles y monstruos**,
+desde las vastas **praderas de Luthe **hasta el **desértico continente **llamado** Tywood**,
+para conseguir pistas sobre la secta **The Eye Above **que quizá tenga alguna relación con la destrucción de La Tierra.
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

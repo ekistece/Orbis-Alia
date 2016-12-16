@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-12-12T08:47:01+01:00
+
+====== Velocidad ======
+Created lunes 12 diciembre 2016
+
+Determina el orden de los **turnos** en batalla.
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-04T11:45:56+01:00
+
+====== Museo ======
+Created viernes 04 noviembre 2016
+
+[Dibujo]
+Aquí se guardan, y exponen, grandes obras de arte y objetos valiosos, posiblemente
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

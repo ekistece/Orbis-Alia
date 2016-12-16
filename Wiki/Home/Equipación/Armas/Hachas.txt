@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:47:09+02:00
+
+====== Hachas ======
+Created viernes 28 octubre 2016
+
+== Hachas ==
+* **Hacha Rota***
+* **Hacha de Mano**
+* **Hacha de Armas**
+* **Labrys de Acero**
+* **Hacha de Piedra**
+* **Hacha Vendaval**
+
+== Arrojadizas ==
+* **Tomahawk**
+* **Francisca**
+
+== Machados ==
+* **Machado de Guerra**
+* **Machado Nobiliario**
+
+== Segures ==
+* **Segur de Leñador**
+* **Segur de Iridio**
+
+== Hachas a dos manos ==
+* **Hacha de Bárbaro**
+* **Hacha Doble**
+* ***Hacha de Eorthe**
+* **Hacha Titánica**
+
+== Armas de asta ==
+* **Alabarda**
+* **Bardiche de Mitrilo**
+* **Archa de Monje**
+* **Guja Enorme**
+* **Rebanadora**
+* **Archa Volcánica**
+* **Matadragones**
+
+== Guadañas ==
+* **Guadaña Oxidada**
+* **Guadaña Negra**
+* **Guadaña Esquelética**
+* **Guadaña de Hades**
+
+== Hachas legendarias ==
+* **Farsha** (__Surpass__)
+* **Parashu**/**Draco Verde** (__Ultimate__)
+
+== Otros ==
+* **Hacha de Juguete** (//Juguete//)
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

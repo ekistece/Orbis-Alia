@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:50:10+02:00
+
+====== Anillos ======
+Created viernes 28 octubre 2016
+
+== Anillos ==
+* **Anillo de Cobre**
+* **Alianza Celestial**
+* **Anillo de Dos Aros**
+* **Anillo de Giges**
+
+== Aretes ==
+* **Arete de Oro**
+* **Arete de Zafiros**
+* **Arete del Corazón**
+
+== Anillo sigma ==
+* **Arete Σ**
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

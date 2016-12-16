@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T12:29:16+02:00
+
+====== Personajes ======
+Created viernes 28 octubre 2016
+
+* [[+Protagonistas|Protagonistas]]
+* [[+Secundarios|Secundarios]]
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

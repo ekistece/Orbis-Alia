@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:49:38+02:00
+
+====== Escudos ======
+Created viernes 28 octubre 2016
+
+== Escudos ligeros ==
+* **Adarga de Cuero**
+* **Escudo de Madera**
+* **Tapa de Cazuela**
+* **Escudete de Cobre**
+* **Rodela Mística**
+* **Broquel de Almas**
+* **Escama de Leviatán**
+* **Tarja de Ónice**
+
+== Escudos pesados ==
+* **Escudo Yetholm**
+* **Escudo de Bronce**
+* **Pavés de Acero**
+* **Broquel de Plata**
+* **Escudo de Medusa**
+* **Égida del Héroe**
+* **Aspis Adamantino**
+* **Gran Escudo Trasgo**
+* **Escudo Policromo**
+
+== Escudos excelsos ==
+* **Égida Eorcla ->**Alistair
+* **Tarja Atemporal -> **Bianca
+* **Broquel Malévolo -> **Suwruz
+* **Aspis Abisal -> **Naara
+* **Adarga del Peregrino -> **Caoimhín
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:48:40+02:00
+
+====== Pistolas ======
+Created viernes 28 octubre 2016
+
+== Balas ==
+* **Bala de Plomo**
+* **Bala de Plata**
+* **Bala Incendiaria**
+* **Bala Explosiva**
+* **Bala de Silimä**
+* **Tathlum**
+
+== Pistolas ==
+* **Pistola Rota***
+* **Pistola de Yesca**
+* **Walter P99 **
+* **Pistola con Mira**
+* **SIG Pro**
+* **Pistola Lunar**
+* **Pistola Valkyria-8**
+* ***Pistola de Orión**
+
+== Revólvers ==
+* **S&W Modelo 10**
+* **Revólver de Plata**
+* **Colt .45**
+* **Revólver Elegante**
+* **Winchester**
+* **Revólver Incendiario**
+* **LeMat de Percusión**
+* **.44 Magnum**
+* **Revólver de Scorus**
+
+== Cañones de brazo ==
+* **Yumi-III**
+* **TronadorC**
+* **Green-One**
+* **Cañón Tesla Mk.3**
+
+== Pistolas legendarias ==
+* **Teen Baan** (__Surpass__)
+* **Belthrond**/**Ferdinand** (__Ultimate__)
+
+== Otros ==
+* **Pistola Casera** (//Juguete//)
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

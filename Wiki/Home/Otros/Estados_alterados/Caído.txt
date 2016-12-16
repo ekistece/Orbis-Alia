@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-12-12T09:37:48+01:00
+
+====== Caído ======
+Created lunes 12 diciembre 2016
+
+[Símbolo]
+
+== Efecto ==
+Esto ocurre cuando los PS de un personaje llegan a 0. Si todos los personajes caen, se recibirá un Game Over.
+
+== Curado con ==
+* Galleta de Chocolate
+* Tarta de Arándanos
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

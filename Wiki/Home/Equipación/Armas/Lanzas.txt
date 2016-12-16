@@ -1,0 +1,51 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:47:41+02:00
+
+====== Lanzas ======
+Created viernes 28 octubre 2016
+
+== Lanzas ==
+* **Lanza Desgastada***
+* **Lanza de Guerra**
+* **Lanza del Alba**
+* **Lanza Feérica**
+* **Sarissa**
+* **Qiang**
+* **Corcesca**
+* **Venablo**
+* **Guisarme**
+* **Naginata**
+* **Bisento**
+* **Xyston**
+* **Cola de Escorpión**
+
+== Tridentes ==
+* **Tridente**
+* **Tridente Extensible**
+
+== Arpones ==
+* **Arpón**
+* **Arpón de Hueso**
+
+== Glaives ==
+* ***Glaive de Furia**
+* **Glaive con Espinas**
+
+== Partesanas ==
+* **Partesana Oscura**
+* **Partesana Espiral**
+
+== Azagayas ==
+* **Azagaya Oxidada**
+* **Azagaya de Trasgo**
+* **Azagaya Mística**
+
+=== Lanzas legendarias ===
+* **Tonbokiri** (__Surpass__)
+* **Brionac**/**Gungnir** (__Ultimate__)
+
+=== Otros ===
+* **Lanza de Madera** (//Juguete//)
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

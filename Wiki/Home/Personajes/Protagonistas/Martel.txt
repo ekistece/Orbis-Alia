@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T12:27:12+02:00
+
+====== Martel ======
+Created viernes 28 octubre 2016
+
+[Retrato de Martel]
+
+* **Nombre**: Martel Noah
+* **Sexo**: Femenino
+* **Raza**: Kender
+* **Fecha de nacimiento**: Desconocido
+* **Lugar de nacimiento**: Åluborg
+* **Fecha de fallecimiento**: n/a
+* **Edad**: 9 (aspecto)
+* **Estatura**: 140cm
+* **Color de pelo**: Violeta
+* **Color de ojos**: Azul
+* **Profesión**: Cazadora
+* **Arma de elección**: Pistola
+* **Elemento**: Agua/Hielo
+* **Astral**: Atlántida Resurgida
+* **Arma inicial**: Pistola Casera
+* **Salud inicial**: 80
+* **Maná inicial**: 17
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-11-04T12:05:56+01:00
+
+====== Librería ======
+Created viernes 04 noviembre 2016
+
+[Dibujo]
+Libros y demás, la dependienta es muy mona
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

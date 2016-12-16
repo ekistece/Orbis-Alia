@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:44:40+02:00
+
+====== Objetos clave ======
+Created viernes 28 octubre 2016
+
+== Objetos ==
+* **Medallón I-VII** → Abre las puertas de sus respectivos santuarios
+* **Antorcha** → Ilumina lugares oscuros (1 uso*)
+* **Antorcha** **de** **Aceite** → " (5 usos)
+* **Antorcha a Gas** → " (10 usos)
+* **Antorcha Mágica** → " (infinitos usos)
+* **Zapapico** → Te permite recoger minerales
+* **Llave** **Maestra** → Abre puertas, cofres y esferas cerradas
+
+*entrar y salir de una mazmorra
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

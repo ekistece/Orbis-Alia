@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:44:18+02:00
+
+====== Aumento de estadísticas ======
+Created viernes 28 octubre 2016
+
+//Efectos sujetos a cambio//
+
+== Efecto permanente ==
+* **Tónico** '**V**' →  Velocidad +15
+* **Tónico** '**P**' → Poder +13
+* **Tónico** '**E**' → Espíritu +12
+* **Tónico** '**D**' → Defensa +10
+* **Elixir** '**V**' → Velocidad del grupo +20
+* **Elixir** '**P**' → Poder del grupo +20
+* **Elixir** '**E**' → Espíritu del grupo +15
+* **Elixir** '**D**' → Defensa del grupo +10
+* **Tónico** **Vital** → PS +80
+* **Tónico** **Mágico → **PM +25
+* **Orbe** **Vital** → PS +160
+* **Orbe** **Mágico → **PM +50
+* **Elixir** **Raro → **Nivel +1
+
+== Efecto sólo en combate ==
+* **Tomo de Velocidad** → Aumenta la velocidad durante unos turnos
+* **Tomo de Poder** → Aumenta el poder durante unos turnos
+* **Tomo de Defensa** → Aumenta la defensa durante unos turnos
+* **Tomo de Magia** → Aumenta el espíritu durante unos turnos
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

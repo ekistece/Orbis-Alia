@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-29T13:02:55+02:00
+
+====== Información ======
+Created sábado 29 octubre 2016
+
+* [[+Game proposal|Game proposal]]
+* [[+Historia|Historia]]
+* [[+Guión|Guión]]
+* [[+Mecánicas|Mecánicas]]
+* [[+Controles|Controles]]
+* [[+Game flow|Game flow]]
+* [[+Concept art de personajes|Concept art de personajes]]
+* [[+Concept art de enemigos|Concept art de enemigos]]
+* [[+Concept art de objetos|Concept art de objetos]]
+* [[+Concept art de edificios|Concept art de edificios]]
+* [[+Fórmulas|Fórmulas]]
+* [[+Sistema de combate|Sistema de combate]]
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T12:27:02+02:00
+
+====== Lance ======
+Created viernes 28 octubre 2016
+
+[Retrato de Lance]
+
+* **Nombre**: Lance Beksiñski
+* **Sexo**: Masculino
+* **Raza**: Fantasma Terren
+* **Fecha de nacimiento**: 14/04/2097
+* **Lugar de nacimiento**: Barcelona
+* **Fecha de fallecimiento**: 2177
+* **Edad**: 80 (al fallecer) 39 (aspecto)
+* **Estatura**: 213cm
+* **Color de pelo**: Azul
+* **Color de ojos**: Gris
+* **Profesión**: Boxeador
+* **Arma de elección**: Garras
+* **Elemento**: X
+* **Astral**: Huevo del Cosmos
+* **Arma inicial**: Garras de Plástico
+* **Salud inicial**: 90
+* **Maná inicial**: 20
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//

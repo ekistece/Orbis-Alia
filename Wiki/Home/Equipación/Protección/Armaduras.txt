@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-10-28T08:49:33+02:00
+
+====== Armaduras ======
+Created viernes 28 octubre 2016
+
+== Armaduras de tela ==
+* **Camiseta**
+* **Camisa de Seda**
+* **Túnica de Algodón**
+* **Abrigo de Pieles**
+* **Vestido de Lino**
+* **Túnica de Seda**
+* **Sobrepelliz de Sabio**
+* **Prendas Solares**
+* **Ropas del Hechicero**
+* **Túnica de 10.000 Plumas**
+* **Manto de los Monarcas**
+
+== Armaduras ligeras ==
+* **Peto de Cuero**
+* **Camisa de Acero**
+* **Caparazón de Tortuga**
+* **Brigantina del Halcón**
+* **Cota de Serpiente**
+* **Prendas del Héroe**
+* **Cota Guarnecida Cromada**
+
+== Armaduras pesadas ==
+* **Cota de Malla**
+* **Armadura de Hierro**
+* **Coraza de Púas**
+* **Armadura de Placas**
+* **Armadura de Gran Calidad**
+* **Malla de Crueldad**
+* **Maximiliana**
+
+== Armaduras excelsas ==
+* **Loriga Eorcla -> **Alistair
+* **Peto Atemporal -> **Bianca
+* **Coraza Malévola -> **Suwruz
+* **Cota Abisal -> **Naara
+* **Brigantina Escarchada -> **Lance
+* **Ropas del Peregrino -> **Caoimhín
+* **Sobrepelliz de la Vigilia -> **Martel
+
+//© 2016 Cave for the Wolf Inc. Todos los derechos reservados.//
